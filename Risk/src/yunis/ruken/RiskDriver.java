@@ -14,9 +14,7 @@ class RiskDriver {
 			System.out.print("Player " + (i + 1) + " name: ");
 			players[i] = new Player(in.nextLine());
 		}
-		for (int i = 4; i < 43; i++) {
-			System.out.println(i + ",");
-		}
+		
 
 	
 	}
