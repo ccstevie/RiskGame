@@ -1,0 +1,43 @@
+Country ID,Country Name,Adjacencies
+1, Afghanistan,7 16 22 37 36
+2, Alaska,27 3 20
+3, Alberta,2 27 28 41
+4, Argentina,5 29
+5, Brazil,4 38 29
+6, Central America,38 41 11
+7, China,1 32 33 37 16 23
+8, Congo,25 9 34
+9, East Africa,12 25 8 34 21 22
+10, Eastern Autstralia,39 24
+11, Eastern United States,28 30 41 6
+12, Egypt,25 35 22 9
+13, Great Britain,15 31 26 40
+14, Greenland,27 28 30 15
+15, Iceland,14 13 31
+16, India,22 1 7 32
+17, Indonesia,32 39 24
+18, Irkutsk,33 42 20 23
+19, Japan,20 23
+20, Kamchatka,19 18 33 2 23
+21, Madagascar,9 34
+22, Middle East,9 12 35 36 1 16
+23, Mongolia,33 18 20 19 7
+24, New Guinea,39 10 17
+25, North Africa,40 5 8 12 35 9
+26, Northern Europe,13 31 40 35 36
+27, Northwest Territory,2 14 28 3
+28, Ontario,14 30 27 3 11 41
+29, Peru,38 5 4
+30, Quebec,28 11 14
+31, Scandinavia,15 13 26 36
+32, Siam,7 16 17
+33, Siberia,37 7 23 18 42
+34, South Africa,8 9 21
+35, Southern Europe,41 26 36 22 12 25
+36, Ukraine,35 26 31 37 1 22
+37, Ural,36 1 33 7
+38, Venezuela,6 5 29
+39, Western Australia,17 24 10
+40, Western Europe,13 26 35 25
+41, Western United States,3 6 28 11
+42, Yakutsk,18 33 20
